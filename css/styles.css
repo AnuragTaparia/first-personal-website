@@ -97,14 +97,7 @@ text-align: left;
     transition: ease-in;
 }
 
-@keyframes bounce2 {
-    0% {
-      right: 300px;
-    }
-    100% {
-        right: 1000px;
-    }
-  }
+
 
 a{
     color:#0c7b93;
